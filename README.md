@@ -2,7 +2,7 @@
 
 This is a custom compiled psycopg2 C library for Python, this covers the problem of: 
 AWS Lambda missing the required PostgreSQL libraries in the AMI image. This usualy happens
-with the following error message:
+with the following **error message**:
 
 ```No module named 'psycopg2._psycopg': ModuleNotFoundError```
 
