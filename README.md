@@ -17,6 +17,6 @@ with the following **error message**:
 
 You will just have to copy the psycopg2 directory and paste it into your AWS Lambda zip package.
 
-## References
+## References & Acknowledgments
 
 Check @jkheler GitHub for more details: https://github.com/jkehler/awslambda-psycopg2
